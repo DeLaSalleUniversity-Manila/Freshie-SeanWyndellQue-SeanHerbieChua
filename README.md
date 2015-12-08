@@ -1,7 +1,6 @@
 # Freshie-SeanWyndellQue&SeanHerbieChua
 
 ### Google Play Store:
-
 https://play.google.com/store/apps/details?id=wynsean.freshie
 
 ### This project is a simulated online grocery application which includes features that help visually impaired people to navigate the app.
